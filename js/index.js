@@ -4,28 +4,28 @@ window.onload  = function(){
 }
 
 var users = [
-     {id:7920723, name:"DafidPalevi", text:"Hai Bro Apa Kabar...", time:"7:02",newMsg:9},
-     {id:2200299, name:"Reza Pohan", text:"Jumpa Dimana Nanti Kita?", time:"18:56",newMsg:2},
-     {id:12272000, name:"Binsar Hutagalung", text:"Jam Berapa Kau Datang Nanti ?", time:"13:02",newMsg:5},
-     {id:8489802, name:"Guntur Hamzah", text:"Lagi Beli Kopi", time:"15:00",newMsg:5},
-     {id:12272000, name:"Mas Ari", text:"Lagi Makan Bakso", time:"13:02", newMsg:5}, 
-     {id:284527, name:"Akbar", text:"Oke Ntar Lagi OTW", time:"7:02",newMsg:12}, 
-     {id:858980, name:"Ali", text:"Tunggu Saja Disana", time:"15:00",newMsg:5},
-     {id:4188281, name:"Enzo Sauqi Hutabarat", text:"Pengusaha Kopi", time:"7:02",newMsg:10},
-     {id:928723, name:"Nino Tannio", text:"Coding Terus", time:"7:02",newMsg:1},
-     {id:1222000, name:"Pras", text:"Fid Loginkan Akun CF ku", time:"13:02", newMsg:5}, 
-     {id:284527, name:"Dedi", text:"Slur", time:"7:02",newMsg:12}, 
-     {id:1712110, name:"Edo", text:"Dimana Lo Slur", time:"9:22",newMsg:3}];
+     {id:1, name:"DafidPalevi", text:"Hai Bro Apa Kabar...", time:"7:02",newMsg:9},
+     {id:1, name:"Reza Pohan", text:"Jumpa Dimana Nanti Kita?", time:"18:56",newMsg:2},
+     {id:1, name:"Binsar Hutagalung", text:"Jam Berapa Kau Datang Nanti ?", time:"13:02",newMsg:5},
+     {id:1, name:"Guntur Hamzah", text:"Lagi Beli Kopi", time:"15:00",newMsg:5},
+     {id:1, name:"Mas Ari", text:"Lagi Makan Bakso", time:"13:02", newMsg:5}, 
+     {id:1, name:"Akbar", text:"Oke Ntar Lagi OTW", time:"7:02",newMsg:12}, 
+     {id:1, name:"Ali", text:"Tunggu Saja Disana", time:"15:00",newMsg:5},
+     {id:1, name:"Enzo Sauqi Hutabarat", text:"Pengusaha Kopi", time:"7:02",newMsg:10},
+     {id:1, name:"Nino Tannio", text:"Coding Terus", time:"7:02",newMsg:1},
+     {id:1, name:"Pras", text:"Fid Loginkan Akun CF ku", time:"13:02", newMsg:5}, 
+     {id:1, name:"Dedi", text:"Slur", time:"7:02",newMsg:12}, 
+     {id:1, name:"Edo", text:"Dimana Lo Slur", time:"9:22",newMsg:3}];
 var wallpaperTheme = ["https://dl.dropbox.com/s/748lrepgl77hlfm/asmani.jpeg","https://dl.dropbox.com/s/8td2sl0fmzlqco0/begani.jpeg","https://dl.dropbox.com/s/41cjs3au49pknx3/brown.jpeg","https://dl.dropbox.com/s/l0vzlor1hewn00l/green.jpeg", "https://dl.dropbox.com/s/qoa0pulm1eywiy4/light%20yellow.jpeg","https://dl.dropbox.com/s/nyjckrrtr69hvkm/red.jpeg","https://dl.dropbox.com/s/nnzxthjp4kb40fa/theme-black.jpeg","https://dl.dropbox.com/s/s69y25xkgo2zk4i/theme-blue.jpeg"]//robotProfile:"https://dl.dropbox.com/s/9djixpxufl988op/Robot.jpg"     
 
 //response Message 
 var abc=["Laal dupatta udd gya re hawa ke jokhe se,_Mujhko Papa ne dekh liya Mara dande se😅","Bantai tera to banta hi nhi hai,_tujhpe kuch bhi jamta hi nhi hai😂","Mai har test pass krke dikhaunga chahe ye mera blood test hi kyon na ho😂","हाय नी तेरी लाल चुनरिया_पहन के लगदी तू कमाल_ओ तेरा क्या कहना_ओ तेरा क्या कहना😘","Gaadi wala aaya,_Ghar se kachra nikal!😂","Bol Bhidu kya kaam hai?","Swagat nhi kroge hamara?","Mere baare mein mat socho,_dil mein aata hoon samajh mein nhi😉","Aeyyyihhh!!! kyon thak rha hai?","Iss baar angrezi mein mujhko Barack Obama bhi fail nhi kr sakta😅","Mai to nanha sa pyaara sa bacha hoon🥺","Acha hai Bahut Acha hai!","Don't angry me!","Yeh Babu rao ka style hai!","Aree baba wrong no. hai to uthati kyon hai","Naam to kamal che...._par surname bawal che😏","Ye haath hai ya hathoda,_kido ki basti mein aa gya makoda😂","tension lene ka nahi_dene ka re😅","chalti kya nau se egyarahh😉","Mauka hai, dastoor hai ..._zakhaas raja,_zakhaas rani aur raazi ... kyun na laga de_Bollywood ki baazi","Tu Munna Bhai hoga lekin main Circuit nahi hoon ..._tu Batman hoga lekin main Birdman nahi hoon ..._tu hero hoga lekin ab main bhi hero hoon😂","Tu ladki ke peeche bhagega,_ladki paise ke peeche bhagegi ..._tu paise ke peeche bhagega,_ladki mere peeche bhagegi🤷","Oh ji jhappiyan tak te theek hai ..._par pappiyan bhi marte rhende hai mainu💁","Ye firauti ke paise hain ya_maiyyat ka chanda😂","Kaun bhauk rha hai ye badtameez😏","Kauwa kitna bhi washing machine mein nha le bagula nhi banta😂","Bhabhi hogi teri aur_shaadi hogi meri😉","Paan me pudina dekha,_naak ka nagina dekha,_chikni chameli dekhi,_chikna kamina dekha,_chaand cheater hoke cheat kiya toh,_Saare taare bole gilli gilli akha.😂","Ladki kamaal re akhiyon se goli maare😉","rehen de bette😏","rehen de chotte😏","Daya kuch to gadbad hai🤔","Daya Darwaja tod🤨","Chaand taare tod laun,_saari duniya par main chaun,_bas itna sa khwaab hai😅","Tune maari entry yaar,_dil mein baji ghanti yaar,_Tann Tann Tann😂","Gulaabi aankhein jo teri dekhi,_sharaabi ye dil ho gya😍","Tera Pyaar pyaar pyaar hukah baar🤐","I Love You❤️"]
-var hi=["hello 😘😘🥰","hello 😅😅","hello 😆🤣😂","Hello, Tell me something about you :)","Hello Darling♥️","Hi Beta😂","Hello Bete🤣"];
-var no=["no problem","Koi gal ni oye!","koi nhi","Thik hai", "Thik hai"];
-var what=["Nothing🤣","Nothing","Kuch nhi😂","Kuch nhi oye!","Kya 'what' ek baar mein sunne ki aadat daal le😏"];
-var blank=["ek bar bolne par samj nhi ata kia ? ? ", "i said! do not send blank message", "Khuch likh le yaar", "write something yaar like : I love you 😘😅", "please do not blank 😏"];
-var welcome = ["Nice to meet you dear :)","Welcome ! <br> mujhe pata tha apko meri yaad yaha khinch layegi 😆😅", "hey Cute dude 🥰", "ayein apka swagat hai in my heart ;)"];
-var intro = ["I am Robot 2.0", "I am Robot 2.0 created by <strong> <span style='color:red'>Dont Knew</span></strong>.", "I am technical Robot", "My owner name is  🥰 <strong> <span style='color:red'>Dont Knew</span></strong>."];
+var hi=["Selamat Datang di App Dafid Palevi 😆😅"];
+var no=["Selamat Datang di App Dafid Palevi 😆😅"];
+var what=["Selamat Datang di App Dafid Palevi 😆😅"];
+var blank=["Selamat Datang di App Dafid Palevi 😆😅"];
+var welcome = ["Selamat Datang di App Dafid Palevi 😆😅"];
+var intro = ["Selamat Datang di App Dafid Palevi 😆😅"];
 
 users.forEach(function(obj){
     var id = obj.id;
